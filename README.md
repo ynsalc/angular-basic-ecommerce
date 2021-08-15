@@ -1,4 +1,4 @@
-#Product API
+## ProductAPI
 
 https://fakestoreapi.com/products
 
